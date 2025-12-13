@@ -1,0 +1,10 @@
+[package]
+name = "christmas_song"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "christmas_song"
+path = "main.rs"
